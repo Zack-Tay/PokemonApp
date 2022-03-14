@@ -1,0 +1,29 @@
+.card-container{
+    background-color: rgb(63, 63, 71);
+    align-self: center;
+    position: relative;
+    color: white;
+    justify-content: center;
+    margin: 1%;
+    max-width: 40%;
+
+    border-radius: 25px;
+    border: 2px solid #36363d;
+
+}
+.name{
+    font-family: Arial, sans-serif;
+    padding-left: 25%;
+}
+.stat{
+    font-family: Arial, sans-serif;
+    padding-left: 25%;
+
+}
+.button-container{
+    margin-left: 25%;
+    max-width: 50%;
+}
+.remove{
+    width: 100%;
+}
